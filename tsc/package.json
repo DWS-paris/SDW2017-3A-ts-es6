@@ -1,0 +1,10 @@
+{
+  "name": "tsc",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc src/* --outDir js -w --pretty"
+  },
+  "author": "",
+  "license": "ISC"
+}
